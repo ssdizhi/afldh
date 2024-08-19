@@ -9,5 +9,5 @@
 <span style="font-size:20px"><a href="https://afldh.cyou" target="_blank">afldh.cyou</a></span><br />
 <span style="font-size:20px"><a href="https://afldh.cfd" target="_blank">afldh.cfd</a></span><br />
 <br />
-<span style="font-size:20px">请将此页加入收藏夹！</span>
+<span style="font-size:20px">收藏此页，永不迷路！</span>
 </center>
