@@ -4,7 +4,6 @@
 <br />
 <span style="font-size:20px"><a href="https://afldh.afldh.store" target="_blank">afldh.afldh.store</a></span><br />
 <span style="font-size:20px"><a href="https://afldh.afldh.shop" target="_blank">afldh.afldh.shop</a></span><br />
-<span style="font-size:20px"><a href="https://afldh.afldh.site" target="_blank">afldh.afldh.site</a></span><br />
 <span style="font-size:20px"><a href="https://afldh.afldh.click" target="_blank">afldh.afldh.click</a></span><br />
 <span style="font-size:20px"><a href="https://afldh.afldh.cyou" target="_blank">afldh.afldh.cyou</a></span><br />
 <span style="font-size:20px"><a href="https://afldh.afldh.cfd" target="_blank">afldh.afldh.cfd</a></span><br />
